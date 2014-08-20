@@ -3,3 +3,5 @@ files/
 
 *.pyc
 *.swp
+.ipynb_checkpoints/
+
